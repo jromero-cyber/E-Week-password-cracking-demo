@@ -5,7 +5,8 @@ dictionary-based techniques. It is intended strictly for educational and
 defensive cybersecurity learning purposes.
 
 The program takes a list of known password hashes and compares them against
-hashed values of common passwords from a wordlist.
+hashed values of common passwords from a wordlist. the contained word list is
+specifically the Hashmob wordlist micro version:[https://hashmob.net/resources/hashmob](link)
 
 ## Features
 - Supports SHA-256 hashing
